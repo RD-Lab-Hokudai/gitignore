@@ -1,5 +1,5 @@
 # gitignore itself
-.gitignore
+# .gitignore
 
 # ROS package
 devel/
